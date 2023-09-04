@@ -10,10 +10,13 @@ Windows
 Linux
 ---------
 1.Download the source files
+
 2.Unzip
+
 3.Enter terminal into the same directory as the files
+
 4.Use the command 
-    '''
-    gcc main.cpp -o main
-    '''
+    
+`gcc main.cpp -o main`
+
 5.Run the new 'main' file
