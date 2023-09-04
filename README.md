@@ -5,6 +5,7 @@ This is a simple calculator I made in c++, this is the second iteration of a fir
 Windows
 ---------
 1.Download the .exe
+
 2.Run the .exe
 
 Linux
