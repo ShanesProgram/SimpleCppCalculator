@@ -1,4 +1,4 @@
-#Simple Calculator by Shane
+# Simple Calculator by Shane
 
 This is a simple calculator I made in c++, this is the second iteration of a first calculator which I will not be publishing due the fact it was not all that great. Despite that I made a better calculator that achieves the same thing but is better organized, if you would like to install it... don't, just use desmos. But if you really want to, the instructions are below.
 
